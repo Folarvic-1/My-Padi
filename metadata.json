@@ -1,0 +1,7 @@
+{
+  "name": "MyPadi-Live-Conversation ",
+  "description": "An application demonstrating real-time voice conversations with Gemini's Live API, text-to-speech generation, and low-latency text chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
